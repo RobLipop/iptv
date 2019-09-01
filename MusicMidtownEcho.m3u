@@ -2,7 +2,7 @@
 #EXTINF:-1, Stage 1 Sales Force Stage
 rtsp://10.11.32.21/stream1
 #EXTINF:-1, Stage 2 Roxy Stage
-rtsp://10.11.32.21/stream1
+rtsp://10.11.32.22/stream1
 #EXTINF:-1,US: ABC HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/2
 #EXTINF:-1,US: CBS HD
