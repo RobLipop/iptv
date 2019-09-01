@@ -9,7 +9,7 @@ rtsp://10.11.32.22/stream1
 rtsp://10.11.32.22/stream1
 #EXTINF:-1, Stage 2 Feed 5
 rtsp://10.11.32.22/stream1
-#EXTINF:-1, Stage 2 Compound Camera
+#EXTINF:-1, Camera 1 Compound
 rtsp://10.11.32.26:554/s0
 #EXTINF:-1,US: ABC HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/2
