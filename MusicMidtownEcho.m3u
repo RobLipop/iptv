@@ -10,7 +10,7 @@ rtsp://10.11.32.22/stream1
 #EXTINF:-1, Stage 2 Feed 5
 rtsp://10.11.32.22/stream1
 #EXTINF:-1, Camera 1 Compound
-rtsp://10.11.32.26:554/s0
+rtsp://10.11.32.26/stream1
 #EXTINF:-1,USA: A and E HD
 http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44281
 #EXTINF:-1,USA: ABC 2 (Atlanta) HD
