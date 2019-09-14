@@ -5,287 +5,226 @@ rtsp://10.11.32.21/stream1
 rtsp://10.11.32.22/stream1
 #EXTINF:-1, Camera 1 Compound
 rtsp://10.11.32.26/stream1
-#EXTINF:-1,USA: A and E HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44281
-#EXTINF:-1,USA: ABC 2 (Atlanta) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44298
-#EXTINF:-1,USA: ABC 2 (Baltimore) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44297
-#EXTINF:-1,USA: ABC 2 (Nashville) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44296
-#EXTINF:-1,USA: ABC 2 WSB (Atlanta) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44295
-#EXTINF:-1,USA: ABC 4 (Salt Lake City) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44294
-#EXTINF:-1,USA: ABC 8 (Dallas) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44293
-#EXTINF:-1,USA: ABC 8 (Pittsburgh) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44292
-#EXTINF:-1,USA: ABC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44300
-#EXTINF:-1,USA: ABC News HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44299
-#EXTINF:-1,USA: Action Max
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44280
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44279
-#EXTINF:-1,USA: AFN Prime Pacific
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44278
-#EXTINF:-1,USA: AFN Sports
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44277
-#EXTINF:-1,USA: AFN Sports 2
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44276
-#EXTINF:-1,USA: AMC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44291
-#EXTINF:-1,USA: Animal Planet HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44275
-#EXTINF:-1,USA: BBC America HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44274
-#EXTINF:-1,USA: BEIN Sports HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44288
-#EXTINF:-1,USA: BET HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44273
-#EXTINF:-1,USA: Big Ten Network
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44272
-#EXTINF:-1,USA: Bloomberg HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44271
-#EXTINF:-1,USA: Boomerang HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44270
-#EXTINF:-1,USA: BTN HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44268
-#EXTINF:-1,USA: C-SPAN 1 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44267
-#EXTINF:-1,USA: C-SPAN 2 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44266
-#EXTINF:-1,USA: C-SPAN 3 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44265
-#EXTINF:-1,USA: CBN HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44263
-#EXTINF:-1,USA: CBS 2 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44260
-#EXTINF:-1,USA: CBS 2 WBM (Chicago) HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44259
-#EXTINF:-1,USA: CBS Sports Network
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44261
-#EXTINF:-1,USA: Cinemax 5
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44258
-#EXTINF:-1,USA: Cinemax HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44309
-#EXTINF:-1,USA: Cinemax Moremax
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44257
-#EXTINF:-1,USA: Cinemax MoreMax HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44256
-#EXTINF:-1,USA: Cinemax Thriller Max HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44255
-#EXTINF:-1,USA: CMT HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44254
-#EXTINF:-1,USA: CNBC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44253
-#EXTINF:-1,USA: CNN HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44287
-#EXTINF:-1,USA: Comedy Central
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44252
-#EXTINF:-1,USA: Cooking Channel HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44251
-#EXTINF:-1,USA: CP24
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44161
-#EXTINF:-1,USA: Crime & Investigation HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44250
-#EXTINF:-1,USA: CW HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44249
-#EXTINF:-1,USA: Destination America
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44248
-#EXTINF:-1,USA: Discovery Channel HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44247
-#EXTINF:-1,USA: Discovery Family HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44246
-#EXTINF:-1,USA: Discovery HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44290
-#EXTINF:-1,USA: Discovery Science HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44245
-#EXTINF:-1,USA: Discovery Velocity HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44244
-#EXTINF:-1,USA: Disney Channel HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44243
-#EXTINF:-1,USA: Disney Jr. HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44242
-#EXTINF:-1,USA: DIY Network HD**
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44241
-#EXTINF:-1,USA: DTX HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44240
-#EXTINF:-1,USA: E! HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44239
-#EXTINF:-1,USA: ESPN
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44238
-#EXTINF:-1,USA: ESPN 2 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44237
-#EXTINF:-1,USA: ESPN 3
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44236
-#EXTINF:-1,USA: ESPN Deportes HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44235
-#EXTINF:-1,USA: ESPN News US HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44233
-#EXTINF:-1,USA: ESPN plus
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44232
-#EXTINF:-1,USA: ESPN U HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44234
-#EXTINF:-1,USA: Food Network HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44230
-#EXTINF:-1,USA: FOX 29 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44286
-#EXTINF:-1,USA: FOX Business Network HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44229
-#EXTINF:-1,USA: FOX HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44228
-#EXTINF:-1,USA: FOX News
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44227
-#EXTINF:-1,USA: Fox Soccer
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44231
-#EXTINF:-1,USA: FOX Sports 1 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44301
-#EXTINF:-1,USA: FOX Sports 2 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44302
-#EXTINF:-1,USA: Freeform HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44226
-#EXTINF:-1,USA: FX HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44225
-#EXTINF:-1,USA: FXX HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44224
-#EXTINF:-1,USA: Golf HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44223
-#EXTINF:-1,USA: GSN HD*
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44222
-#EXTINF:-1,USA: H2
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44220
-#EXTINF:-1,USA: Hall Mark HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44219
-#EXTINF:-1,USA: HallMark
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44218
-#EXTINF:-1,USA: HBO 2
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44215
-#EXTINF:-1,USA: HBO Comedy HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44217
-#EXTINF:-1,USA: HBO Family HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44285
-#EXTINF:-1,USA: HBO HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44216
-#EXTINF:-1,USA: HBO Signature HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44214
-#EXTINF:-1,USA: HBO Zone
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44213
-#EXTINF:-1,USA: HGTV HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44284
-#EXTINF:-1,USA: History
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44212
-#EXTINF:-1,USA: Home & Health
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44221
-#EXTINF:-1,USA: IFC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44211
-#EXTINF:-1,USA: Life Time
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44209
-#EXTINF:-1,USA: LMN HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44208
-#EXTINF:-1,USA: MLB Network
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44207
-#EXTINF:-1,USA: More Max HD*
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44206
-#EXTINF:-1,USA: MSNBC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44205
-#EXTINF:-1,USA: MTV HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44204
-#EXTINF:-1,USA: Nat Geo hd
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44203
-#EXTINF:-1,USA: Nat Geo Wild HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44202
-#EXTINF:-1,USA: NBA TV HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44201
-#EXTINF:-1,USA: NBC Golf
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44200
-#EXTINF:-1,USA: NBC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44303
-#EXTINF:-1,USA: NFL Network HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44172
-#EXTINF:-1,USA: NFL NOW HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44171
-#EXTINF:-1,USA: NFL Red Zone HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44170
-#EXTINF:-1,USA: NHL Network HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44198
-#EXTINF:-1,USA: Nick Jr. HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44197
-#EXTINF:-1,USA: Nickolodean HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44196
-#EXTINF:-1,USA: Nicktoons HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44194
-#EXTINF:-1,USA: OWN HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44193
-#EXTINF:-1,USA: Oxygen HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44192
-#EXTINF:-1,USA: PBS HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44191
-#EXTINF:-1,USA: Reelz HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44190
-#EXTINF:-1,USA: SEC Network HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44189
-#EXTINF:-1,USA: ShowTime 2 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44187
-#EXTINF:-1,USA: Showtime Family Zone HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44186
-#EXTINF:-1,USA: Spike HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44185
-#EXTINF:-1,USA: Starz Edge
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44184
-#EXTINF:-1,USA: Sundance HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44183
-#EXTINF:-1,USA: SYFY HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44182
-#EXTINF:-1,USA: TBS HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44283
-#EXTINF:-1,USA: Tennis HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44181
-#EXTINF:-1,USA: The Weather Channel HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44180
-#EXTINF:-1,USA: TLC HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44179
-#EXTINF:-1,USA: TNT HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44178
-#EXTINF:-1,USA: Travel Channel HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44177
-#EXTINF:-1,USA: TRU TV HD *
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44176
-#EXTINF:-1,USA: TSN HD 1
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44308
-#EXTINF:-1,USA: TSN HD 2
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44307
-#EXTINF:-1,USA: TSN HD 3
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44306
-#EXTINF:-1,USA: TSN HD 4
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44305
-#EXTINF:-1,USA: TSN HD 5
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44304
-#EXTINF:-1,USA: TV Land HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44175
-#EXTINF:-1,USA: UFC FIGHT PASS
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44162
-#EXTINF:-1,USA: Universal HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44174
-#EXTINF:-1,USA: Universal Kids HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44195
-#EXTINF:-1,USA: USA Network
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44173
-#EXTINF:-1,USA: Velocity HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44169
-#EXTINF:-1,USA: VH1 HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44168
-#EXTINF:-1,USA: WGN America HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44167
-#EXTINF:-1,USA: Willow Cricket HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44166
-#EXTINF:-1,USA: WWE Network HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44165
-#EXTINF:-1,USA: WWE Network HD MYC
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44164
-#EXTINF:-1,USA: WWE Network HD NXT
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/44163
-#EXTINF:-1,USA: NBCSN HD
-http://newsocial.ddns.me:80/12newes1029th5/l0WY04zgqW/543
+#EXTINF:-1,US: ESPN
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/189
+#EXTINF:-1,US: ESPN U HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7256
+#EXTINF:-1,US: ESPN 2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/121
+#EXTINF:-1,US: Sports-Net
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2279
+#EXTINF:-1,US: H2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1099
+#EXTINF:-1,US: FX HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1075
+#EXTINF:-1,US: FOXX HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1078
+#EXTINF:-1,US: Bein Sports USA HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/1104
+#EXTINF:-1,US: FIGHT SPORT
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2277
+#EXTINF:-1,US: TSN 4 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/95
+#EXTINF:-1,US: TSN 3*
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/94
+#EXTINF:-1,US: TSN 1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/92
+#EXTINF:-1,US: Sportsnet 360 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/97
+#EXTINF:-1,US: TBS HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/138
+#EXTINF:-1,US: SEC Network
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3244
+#EXTINF:-1,US: NHL Network(1)
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3474
+#EXTINF:-1,US: MSNBC HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3245
+#EXTINF:-1,US: MLB Network
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3477
+#EXTINF:-1,US: Fox SPORTS 506 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4009
+#EXTINF:-1,US: FOX 43
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4008
+#EXTINF:-1,US: ESPN 2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/121
+#EXTINF:-1,US: NFL Network 1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5724
+#EXTINF:-1,US: Bloomberg Europe
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5763
+#EXTINF:-1,US: BNN
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5801
+#EXTINF:-1,US: Boomerang
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5762
+#EXTINF:-1,US: Cinemax East HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5795
+#EXTINF:-1,US: Cinemax MoreMax
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5796
+#EXTINF:-1,US: CW11
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5768
+#EXTINF:-1,US: Discovery HD Showcase
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5761
+#EXTINF:-1,US: Fine Living
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5759
+#EXTINF:-1,US: FUEL HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5758
+#EXTINF:-1,US: HGTV HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5794
+#EXTINF:-1,US: MTV Rocks
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5757
+#EXTINF:-1,US: OUTDOOR CHANNEL HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5756
+#EXTINF:-1,US: Smile Of A Child
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5755
+#EXTINF:-1,US: VH1 Classic
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5754
+#EXTINF:-1,US: NBC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6621
+#EXTINF:-1,US: Bloomberg TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6978
+#EXTINF:-1,US: CAPITAL TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7152
+#EXTINF:-1,US: MY9 TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7156
+#EXTINF:-1,US: Nursery Rhymes (Baby Songs)
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7158
+#EXTINF:-1,US: THE FLORIDA CHANNEL
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7146
+#EXTINF:-1,US: WEATHERNATION
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7150
+#EXTINF:-1,US: WGN News Chicago
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7151
+#EXTINF:-1,US: Yes Network
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7149
+#EXTINF:-1,US: YTV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7148
+#EXTINF:-1,US: CNN US HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7254
+#EXTINF:-1,US: ESPN News US HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7255
+#EXTINF:-1,US: ESPN U HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7256
+#EXTINF:-1,US: ION Television East HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7257
+#EXTINF:-1,US: Lifetime Movie Network HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7259
+#EXTINF:-1,US: MSG HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7253
+#EXTINF:-1,US: WGN America HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7260
+#EXTINF:-1,US: WWE HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2
+#EXTINF:-1,US: TLC HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/86
+#EXTINF:-1,US: PAC-12 Washington
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/397
+#EXTINF:-1,US: PAC-12 Oregon
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/395
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/394
+#EXTINF:-1,US: PAC-12 Bay Area
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/393
+#EXTINF:-1,US: PAC-12 Arizona
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/392
+#EXTINF:-1,US: NFL Network HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/90
+#EXTINF:-1,US: NBCSNHD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/98
+#EXTINF:-1,US: Fox Sports 2 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/13
+#EXTINF:-1,US: Fox Sports 1 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/14
+#EXTINF:-1,US: ESPN
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/189
+#EXTINF:-1,US: A&E HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/50
+#EXTINF:-1,US: TNT HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/122
+#EXTINF:-1,US: SYFY HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/124
+#EXTINF:-1,US: USA Network
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/892
+#EXTINF:-1,US: NBC Golf
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3485
+#EXTINF:-1,US: Investigation Discovery
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3486
+#EXTINF:-1,US: HISTORY HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/895
+#EXTINF:-1,US: FOX NEWS HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/127
+#EXTINF:-1,US: ESPN HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/129
+#EXTINF:-1,US: CW HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/140
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/141
+#EXTINF:-1,US: CBS
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/131
+#EXTINF:-1,US: BRAVO HD(1)
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/128
+#EXTINF:-1,US: ABC NEWS HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/135
+#EXTINF:-1,US: ABC HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/136
+#EXTINF:-1,US: Tennis Channel HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2453
+#EXTINF:-1,US: Starz Encore
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3487
+#EXTINF:-1,US: Starz Etas
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3488
+#EXTINF:-1,US: Starz Comedy
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3489
+#EXTINF:-1,US: Showtime West
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3491
+#EXTINF:-1,US: SHOWTIME HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3492
+#EXTINF:-1,US: Showtime 2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3493
+#EXTINF:-1,US:   NBA TV HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3484
+#EXTINF:-1,US: HBO Zone
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2454
+#EXTINF:-1,US: HBO Signature
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2458
+#EXTINF:-1,US: HBO HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2455
+#EXTINF:-1,US: HBO East
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2456
+#EXTINF:-1,US: HBO Comedy
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2457
+#EXTINF:-1,US: FXX
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2452
+#EXTINF:-1,US: Fight HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3632
+#EXTINF:-1,US: DISCOVERY HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/139
+#EXTINF:-1,US: CNBC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3246
+#EXTINF:-1,US: CBSN HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2222
+#EXTINF:-1,US: BYU TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/164
+#EXTINF:-1,US: AMC HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/179
+#EXTINF:-1,US: NFL Network 1080i
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5726
+#EXTINF:-1,US: NFL REDZONE SD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/5725
+#EXTINF:-1,US: Fox HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6965
+#EXTINF:-1,US: MSNBC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7685
+#EXTINF:-1,US: E!
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7775
+#EXTINF:-1,US: OWN HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8091
+#EXTINF:-1,US: VIP: BAYERN FC TV FHD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8147
+#EXTINF:-1,US: NASA TV HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8390
+#EXTINF:-1,US: WWE HD backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8409
+#EXTINF:-1,US: CBS Sports Network HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6760
+#EXTINF:-1,US: Fox sport 1 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/10182
+
