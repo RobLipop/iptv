@@ -3,5 +3,5 @@
 rtsp://10.11.32.21/stream1
 #EXTINF:-1,Roxy Stage
 rtsp://10.11.32.22/stream1
-#EXTINF:-1, Meadow Camera
+#EXTINF:-1, Meadow CamerA
 rtsp://10.11.32.23/stream1
