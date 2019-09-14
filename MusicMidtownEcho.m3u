@@ -3,7 +3,7 @@
 rtsp://10.11.32.21/stream1
 #EXTINF:-1, Stage 2 Roxy Stage
 rtsp://10.11.32.22/stream1
-#EXTINF:-1, Camera 1 Compound
+#EXTINF:-1, Meadow Camera
 rtsp://10.11.32.26/stream1
 #EXTINF:-1,US: ESPN
 http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/189
